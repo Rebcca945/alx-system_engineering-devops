@@ -1,1 +1,1 @@
-shell permissions
+switch to betty
