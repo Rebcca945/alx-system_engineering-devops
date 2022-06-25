@@ -1,1 +1,1 @@
-mirror perission
+directory permission
