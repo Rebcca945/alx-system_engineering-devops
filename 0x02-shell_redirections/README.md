@@ -8,3 +8,4 @@ print third line
 file containing Best School
 Save current state of directory
 Duplicate last line
+deletes all the regular files
