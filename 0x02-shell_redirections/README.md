@@ -11,3 +11,4 @@ Duplicate last line
 deletes all the regular files
 counts the number of directories and sub-directories 
 displays the 10 newest files in the current directory
+prints only words that appear exactly once
