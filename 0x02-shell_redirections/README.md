@@ -9,3 +9,4 @@ file containing Best School
 Save current state of directory
 Duplicate last line
 deletes all the regular files
+counts the number of directories and sub-directories 
