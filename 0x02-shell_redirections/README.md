@@ -13,3 +13,4 @@ counts the number of directories and sub-directories
 displays the 10 newest files in the current directory
 prints only words that appear exactly once
 ines containing the pattern “root” from the file /etc/passwd
+number of lines that contain the pattern “bin”
