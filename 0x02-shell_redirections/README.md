@@ -1,1 +1,2 @@
-#Shell, I/O Redirections and filters
+print hello
+print confused smiley 
