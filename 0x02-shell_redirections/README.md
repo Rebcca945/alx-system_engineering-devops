@@ -16,3 +16,4 @@ ines containing the pattern “root” from the file /etc/passwd
 number of lines that contain the pattern “bin”
 Display lines containing the pattern “root” and 3 lines after them
  all the lines in the file /etc/passwd
+all lines starting with a letter
